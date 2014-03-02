@@ -2,8 +2,6 @@
 class people::jdwolk {
   include ohmyzsh
   include iterm2::stable
-  include iterm2::colors::solarized_light
-  include iterm2::colors::solarized_dark
   include ctags
   include heroku
   include foreman
@@ -17,12 +15,14 @@ class people::jdwolk {
   include vim
   include chrome
   include propane
+  include python
   # include gimp
 
 
   vim::bundle { [
+  'jpalardy/vim-slime',
   'kien/ctrlp.vim',
-  'Yggdroot/indentLine'
+  'Yggdroot/indentLine',
   'scrooloose/syntastic',
   'scrooloose/nerdcommenter',
   'scrooloose/nerdtree',

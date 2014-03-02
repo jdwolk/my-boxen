@@ -74,4 +74,5 @@ github "vlc",         "1.0.5"
 github "pgadmin3",    "1.0.0"
 github "gimp",        "1.0.0"
 github "propane",     "1.0.0"
+github "python",      "1.3.0"
 
