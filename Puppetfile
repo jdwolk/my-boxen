@@ -56,3 +56,22 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "osx",         "2.2.2"
+github "iterm2",      "1.0.0"
+github "ohmyzsh",     "1.0.0", :repo => "samjsharpe/puppet-ohmyzsh"
+github "ctags",       "1.0.0"
+github "foreman",     "1.1.0"
+github "heroku",      "2.1.1"
+github "hub",         "1.3.0"
+github "imagemagick", "1.2.1"
+github "postgresql",  "3.0.1"
+github "qt",          "1.2.2"
+github "sysctl",      "1.0.1"
+github "vim",         "1.0.5"
+github "tmux",        "1.0.2"
+github "chrome",      "1.1.2"
+github "vlc",         "1.0.5"
+github "pgadmin3",    "1.0.0"
+github "gimp",        "1.0.0"
+github "propane",     "1.0.0"
+
